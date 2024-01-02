@@ -15,23 +15,23 @@ const router = createBrowserRouter([
     element : <Home />
   },
   {
-    path : "education",
+    path : "/education",
     element : <Education />
   },
   {
-    path : "experience",
+    path : "/experience",
     element : <Experience />
   },
   {
-    path : "projects",
+    path : "/projects",
     element : <Projects />
   },
   {
-    path : "research_work",
+    path : "/research_work",
     element : <ResearchWork />
   },
   {
-    path : "skills",
+    path : "/skills",
     element : <Skills />
   },
 
