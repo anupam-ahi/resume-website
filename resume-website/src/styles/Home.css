@@ -1,0 +1,21 @@
+.home-container {
+    position: relative; /* Establish a positioning context */
+    height: 100vh; /* Ensure full height */
+  }
+  
+
+  .homepage-content{
+    display: flex;
+    column-gap: 20px;
+    align-items: center;
+    justify-content: center;
+
+  }
+
+  img{
+    width: 50vw;
+    height: 100vh;
+    display: block;
+    object-fit: cover;
+    object-position: center;
+  }
