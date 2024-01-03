@@ -1,8 +1,15 @@
-# React + Vite
+# Personal Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal website! This platform serves as a comprehensive showcase of my educational background, skills, projects, research work, and professional experience in the field of computer science.
 
-Currently, two official plugins are available:
+# Contact
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I am open to networking, collaboration, and new opportunities. Feel free to reach out to me through the contact details provided below. I look forward to connecting with like-minded individuals and organizations who share a passion for advancing the field of computer science.
+
+Email: sgollapalli@seattleu.edu
+
+LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/anupam-ahi/)
+
+GitHub: [Your GitHub Profile](https://github.com/anupam-ahi)
+
+Thank you for visiting my personal resume website. I hope you find the information here insightful and engaging. Let's connect and explore the possibilities within the world of computer science!
