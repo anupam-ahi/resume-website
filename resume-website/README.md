@@ -1,4 +1,4 @@
-# Personal Resume Website
+# Personal Website
 
 Welcome to my personal resume website! This platform serves as a comprehensive showcase of my educational background, skills, projects, research work, and professional experience in the field of computer science.
 
