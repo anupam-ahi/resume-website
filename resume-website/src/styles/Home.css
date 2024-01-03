@@ -9,13 +9,35 @@
     column-gap: 20px;
     align-items: center;
     justify-content: center;
+    margin-top: 90px;
+    margin-left: 100px;
 
   }
 
   img{
-    width: 50vw;
-    height: 100vh;
-    display: block;
+    width: 20vw;
+    border-radius: 50px;
+    height: 80vh;
+    margin: auto;
     object-fit: cover;
     object-position: center;
+    animation: fadeIn 5s;
   }
+
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  .right ul li{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: x-large;
+    animation: fadeIn 5s;
+  }
+  
+  .right ul li:hover {
+    font-weight: bold; /* Make text bold on hover */
+    font-size: x-large; /* Slightly increase font size on hover */
+    cursor: pointer;
+    
+  }
+  
