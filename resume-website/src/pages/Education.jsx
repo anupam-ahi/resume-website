@@ -6,6 +6,7 @@ export default function Education (){
         <>
         <Navbar />
         <div className="container">
+            
             <ul>
                 <li>MS, Computer Science at Seattle University</li>
                 <li>Courses: Parallel Computing, Web Development, Distributed Systems, Artificial Intelligence, Software Architecture, Software Refactoring and Design, Ethics in Computing</li>
