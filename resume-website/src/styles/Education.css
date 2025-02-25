@@ -1,0 +1,26 @@
+.container{
+  position: relative;
+  display: flex;
+  column-gap: 70px;
+  align-items:  center;
+  justify-content: center;
+  margin-top: 90px;
+  margin-left: 100px;
+}
+
+  .photo{
+    flex-wrap: wrap;
+    width: 100px;
+    height: 100px;
+  }
+ul{
+  list-style: none;
+}
+.text{
+  flex-wrap: wrap;
+  
+}
+
+
+
+
